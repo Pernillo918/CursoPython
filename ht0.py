@@ -12,3 +12,9 @@ Estatura = input("¿Cual es su estatura en m?")
 imc = round(float(Peso) / float(Estatura)**2, 2)
 
 print("Su indice de masa corportal es: ", imc)
+
+
+
+
+
+
