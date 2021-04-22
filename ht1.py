@@ -59,5 +59,5 @@ if numero>1:
         print("El numero " +str(numero) + " no es primo")
 
 else:
-    
-    print("El numero " +str(numero) + " no es primo")
+
+    print("El numero digitado no es entero positivo")
